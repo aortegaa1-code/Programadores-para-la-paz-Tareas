@@ -1,0 +1,9 @@
+1. mkdir semana 2
+2. touch preguntas-semana2.txt
+3. touch comandos-terminal.txt
+4. touch reflexion-semana2.txt
+5. cd ..
+6. git add semana 2
+7. git commit -m "actividad semana2"
+8. git push
+9. pwd

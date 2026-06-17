@@ -1,0 +1,7 @@
+Las comunidades y las iniciativas ciudadanas necesitan construir sus propias herramientas
+porque permite adaptar la tecnología a sus necesidades específicas. Usar tecnologías abiertas
+como Node.js facilita el acceso, el aprendizaje y la colaboración entre personas. Además,
+al trabajar con software libre se reduce la dependencia de soluciones comerciales costosas.
+Esto fortalece la autonomía y contribuye a mantener el control sobre los datos y la privacidad.
+También permite compartir mejoras con otras comunidades y construir proyectos más sostenibles.
+En general, es una forma de empoderamiento digital que apoya procesos participativos y sociales.

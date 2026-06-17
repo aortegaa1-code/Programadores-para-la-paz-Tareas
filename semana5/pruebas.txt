@@ -1,0 +1,5 @@
+GET / -> Muestra el texto "Servidor activo" en el navegador, lo que confirma que el servidor está corriendo.
+GET /saludo -> Muestra el texto "Hola comunidad" como respuesta de la ruta de saludo.
+GET /mensaje/juan -> Muestra el texto "Hola juan" usando el parámetro de ruta nombre.
+
+La ruta POST /reporte no se prueba directamente desde el navegador, porque requiere enviar datos en el cuerpo de la solicitud.

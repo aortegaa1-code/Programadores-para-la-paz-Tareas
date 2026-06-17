@@ -1,0 +1,12 @@
+Al enviar POST a /registro con JSON:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor responde con JSON indicando que los datos fueron recibidos y devuelve los campos enviados:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

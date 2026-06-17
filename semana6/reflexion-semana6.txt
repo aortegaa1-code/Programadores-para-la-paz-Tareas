@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas reciban reportes de los ciudadanos de forma estructurada para que la información sea clara y procesable.
+Cuando los datos llegan en JSON, el sistema puede identificar rápidamente cada campo como nombre, mensaje o tipo de incidencia.
+Esto ayuda a evitar errores de interpretación y facilita el almacenamiento en bases de datos.
+Además, los reportes estructurados permiten buscar y filtrar información más fácilmente.
+Si una comunidad envía alertas sin estructura, es más difícil organizar las respuestas.
+En cambio, con un formato uniforme se puede generar estadísticas y tomar decisiones más rápidas.
+También hace posible que diferentes servicios compartan los datos con seguridad.
+Finalmente, mejora la comunicación entre ciudadanos y autoridades al estandarizar la forma en que se envía la información.

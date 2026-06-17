@@ -1,0 +1,8 @@
+Las comunidades necesitan plataformas que permitan registrar y consultar reportes para que la información no se pierda.
+Al usar una API con rutas GET y POST, los ciudadanos pueden enviar incidencias y luego revisar qué problemas ya fueron documentados.
+Esto ayuda a organizar acciones y a dar seguimiento a las necesidades de la comunidad.
+Un sistema de reportes centralizado también hace posible compartir los datos con autoridades o grupos de apoyo.
+Si los datos se guardan en memoria con un array, se pueden consultar rápidamente mientras el servidor está activo.
+Además, permitir la consulta de reportes mejora la transparencia y la colaboración.
+Las plataformas tecnológicas estructuran mejor la información y evitan confusiones.
+Finalmente, facilitan la comunicación entre los vecinos y los responsables del territorio.

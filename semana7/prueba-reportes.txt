@@ -1,0 +1,3 @@
+Al enviar un POST a /reportes con un reporte, el servidor guarda el nuevo objeto en el array de reportes.
+Luego, al consultar GET /reportes, el servidor devuelve la lista completa de reportes registrados hasta el momento.
+Esto incluye los reportes anteriores y el nuevo reporte con su id, tipo y descripción.
